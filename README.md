@@ -21,7 +21,7 @@ make
 make install
 ```
 
-Default installation location is : `/usr/local/zeek/bin`
+Default installation location is : `$PREFIX = /usr/local/zeek/bin`
  
 
 

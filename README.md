@@ -23,5 +23,11 @@ make install
 
 Default installation location is : `$PREFIX = /usr/local/zeek/`
  
+ ``` 
+ $zeekctl
+ $[zeekctl] > install    // first time
+ $[zeekctl] > start
+ $[zeekctl] > stop
+ ```
 
 

@@ -8,6 +8,11 @@ event zeek_init()
 	print " num * 100 ",  num * 100 ;
 	print " num / 100" , num / 100 ;
 	print " num % 10000" , num % 10000 ;
+	print "num values" ,num ;
+	print "num < 40 ? " ,  num < 40 ;
+	print "num > 30 ? " , num > 30 ;
+	print " abs num  ",  | num |  ;
+	print " ++num , -- num  " , ++num , --num;
 }
 
 

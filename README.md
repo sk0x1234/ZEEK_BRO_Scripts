@@ -32,7 +32,8 @@ Default installation location is : `$PREFIX = /usr/local/zeek/`
 
 
 ## ZEEK Scritps :
-Default location : `$PREFIX/share/zeek`    {base , policy} .
+Default location : `$PREFIX/share/zeek`    {base , policy}
+
 local scripts : `$PREFIX/share/zeek/site`
 
 

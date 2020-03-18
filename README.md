@@ -20,6 +20,8 @@ Clone the git :
 make
 make install
 ```
+
+Default installation location is : `/usr/local/zeek/bin`
  
 
 

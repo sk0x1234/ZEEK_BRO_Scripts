@@ -9,6 +9,16 @@ Using Debian 10 , Buster ;
  
  nessesary tools :
  
- `$ sudo apt-get install cmake make gcc g++ flex bison libpcap-dev libssl-dev python-dev swig zlib1g-dev curl libmaxminddb  `
+ `$ sudo apt-get install cmake make gcc g++ flex bison libpcap-dev libssl-dev python-dev swig zlib1g-dev curl libmaxminddb git `
+
+Clone the git :
+
+`git clone --recursive https://github.com/zeek/zeek`
+
+```./configure
+make
+make install
+```
+ 
 
 

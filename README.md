@@ -15,7 +15,8 @@ Clone the git :
 
 `git clone --recursive https://github.com/zeek/zeek`
 
-```./configure
+```
+./configure
 make
 make install
 ```

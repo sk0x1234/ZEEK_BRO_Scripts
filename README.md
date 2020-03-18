@@ -8,6 +8,7 @@ Using Debian 10 , Buster ;
  [link to follw ]: (https://docs.zeek.org/en/current/install/install.html)
  
  nessesary tools :
-  `$ sudo apt-get install cmake make gcc g++ flex bison libpcap-dev libssl-dev python-dev swig zlib1g-dev`
+ 
+ `$ sudo apt-get install cmake make gcc g++ flex bison libpcap-dev libssl-dev python-dev swig zlib1g-dev`
 
 
